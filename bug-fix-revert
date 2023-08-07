@@ -1,1 +1,1 @@
-
+git revert <unwanted commit hash> 
